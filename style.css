@@ -1,3 +1,14 @@
 p{
     color: blue;
 }
+h1{
+    text-align: center;
+}
+.desh{
+    color: rgb(211, 12, 12);
+}
+    .one p{
+    margin:5px 1px;
+    border:1px solid red;
+    border-radius: 5px;
+}
